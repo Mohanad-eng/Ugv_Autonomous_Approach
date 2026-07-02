@@ -12,6 +12,16 @@ We Define The following concepts :
 
 ## How it works : 
 
+**First** :  we find the nearst LIDAR Point 
+
+**Second** : We Put Around this point An inflation Circle Equal to RB(Raduis of Robot Circle)
+
+**Third** : We make all the points inside it Equal to 0 (Treat it like immedaite threat As inf means No Obstacle, 0 Means an Obsticale)
+
+**Fourth** : Find the maximum lenght or distance (Max gap).
+
+
+
 ## Simulation : 
 
 ## Real Hardware : 
