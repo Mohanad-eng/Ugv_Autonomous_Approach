@@ -20,6 +20,9 @@ We Define The following concepts :
 
 **Fourth** : Find the maximum lenght or distance (Max gap).
 
+Using linear Relation between distacne and the Velocity 
+
+
 
 
 ## Simulation : 
